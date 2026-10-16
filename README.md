@@ -19,13 +19,10 @@ I specialize in **Cross-Platform Mobile Development** using Flutter and am deepl
 
 <br/>
 
-<a href="https://ahmadxhashmi.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=github&logoColor=white" height="30" />
-</a>
-<a href="mailto:ahmadhashmi123123@gmail.com">
+<a href="mailto:hamzaali87307@hmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
 </a>
-<a href="www.linkedin.com/in/ahmad-hashmi-3b206b363">
+<a href="https://www.linkedin.com/in/hamza-ali-a591412b9/?isSelfProfile=true">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
 
